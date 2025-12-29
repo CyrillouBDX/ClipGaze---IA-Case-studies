@@ -62,7 +62,7 @@ Please pay close attention to the compatibility between **CUDA, Python, PyTorch,
 ### Model Weights
 To run the inference, you must download the pre-trained weights. raining the model from scratch is possible but would require significant time, data, and computational resources beyond the scope of this project
 You can download the **traditional target present** model weights from this link:
-👉 [Google Drive Link](https://drive.google.com/drive/folders/1CO7OSwEy8dn3xPkexi3ZfcaAOOS_ecpr?usp=sharing)
+ [Google Drive Link](https://drive.google.com/drive/folders/1CO7OSwEy8dn3xPkexi3ZfcaAOOS_ecpr?usp=sharing)
 
 *Note: For this project, you only need to download the **Target Present** weights.*
 
