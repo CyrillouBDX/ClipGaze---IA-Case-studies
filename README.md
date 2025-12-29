@@ -71,4 +71,4 @@ You can download the **traditional target present** model weights from this link
 ## Credits & Acknowledgements
 
 * **Original Work:** [CLIPGaze Repository](https://github.com/cvlab-stonybrook/Gazeformer) by Lai et al.
-* **Support:** Special thanks to **Ir. Adrien KINART** for the foundational notebook and **Numédiart** for the computing resources.
+* **Support:** Special thanks to **Ir. Adrien KINART** for the foundational notebook, his generous assistance with the project, and for taking the time to explain the mechanics of such an architecture.
